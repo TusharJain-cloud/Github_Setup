@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Github_Setup.iml" filepath="$PROJECT_DIR$/.idea/Github_Setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workflows/workflows.iml" filepath="$PROJECT_DIR$/workflows/workflows.iml" />
     </modules>
   </component>
 </project>
